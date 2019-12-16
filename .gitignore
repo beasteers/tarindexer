@@ -1,5 +1,12 @@
 *.py[cod]
 
+**/.DS_Store
+
+#  custom repo stuff
+**/tmp/
+*-old/
+tests/results
+
 # C extensions
 *.so
 
